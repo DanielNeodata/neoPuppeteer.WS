@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Daniel\\www\\neodata.code\\neoPuppeteer.WS\\",
+  "WorkspaceRootPath": "D:\\General\\www\\neodata.code\\neoPuppeteer.WS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E64668DA-879B-48BC-A6BB-D44D919CC6ED}|neoPuppeteerWS.csproj|d:\\daniel\\www\\neodata.code\\neopuppeteer.ws\\neopuppeteerws.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "AbsoluteMoniker": "D:0:0:{E64668DA-879B-48BC-A6BB-D44D919CC6ED}|neoPuppeteerWS.csproj|d:\\general\\www\\neodata.code\\neopuppeteer.ws\\neopuppeteerws.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{E64668DA-879B-48BC-A6BB-D44D919CC6ED}|neoPuppeteerWS.csproj|solutionrelative:neopuppeteerws.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     }
   ],
@@ -14,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 15,
           "Children": [
             {
               "$type": "Bookmark",
@@ -37,12 +37,52 @@
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6d4078d1-5951-4ed1-ac0e-0a8099c1cce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "neoPuppeteerWS",
-              "DocumentMoniker": "D:\\Daniel\\www\\neodata.code\\neoPuppeteer.WS\\neoPuppeteerWS.csproj",
+              "DocumentMoniker": "D:\\General\\www\\neodata.code\\neoPuppeteer.WS\\neoPuppeteerWS.csproj",
               "RelativeDocumentMoniker": "neoPuppeteerWS.csproj",
-              "ToolTip": "D:\\Daniel\\www\\neodata.code\\neoPuppeteer.WS\\neoPuppeteerWS.csproj",
+              "ToolTip": "D:\\General\\www\\neodata.code\\neoPuppeteer.WS\\neoPuppeteerWS.csproj",
               "RelativeToolTip": "neoPuppeteerWS.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-12-07T12:38:20.833Z",
